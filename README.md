@@ -34,3 +34,5 @@ How to build a scalable backend to query and search billions of records?
 https://medium.com/elucidata/how-to-build-a-scalable-backend-to-query-and-search-billions-of-records-16a532433fda
 
 
+Transaction in Distributed Systems:
+https://medium.com/nerd-for-tech/transactions-in-distributed-systems-b5ceea869d7d
