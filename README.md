@@ -15,3 +15,9 @@ https://medium.com/@taha.topal.7/optimistic-locking-by-using-version-annotation-
 Java:
 Stop checking for nulls in Java
 https://towardsdev.com/stop-checking-for-nulls-in-java-593a1f1a0c2f
+
+
+Distributed Locking
+https://medium.com/@marios.shiatis/distributed-locking-b8f216bc79a2
+
+
