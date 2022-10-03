@@ -42,3 +42,9 @@ Try:
 How to Send Push Notification With Spring Boot using Websockets and STOMP
 https://amrutprabhu.medium.com/how-to-send-push-notification-with-spring-boot-using-websockets-and-stomp-f687807d1958
 
+
+Apache Pulsar consumer and producer with Spring Boot
+https://boottechnologies-ci.medium.com/apache-pulsar-consumer-and-producer-with-spring-boot-916fd06f669
+
+
+
