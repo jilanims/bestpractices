@@ -36,3 +36,9 @@ https://medium.com/elucidata/how-to-build-a-scalable-backend-to-query-and-search
 
 Transaction in Distributed Systems:
 https://medium.com/nerd-for-tech/transactions-in-distributed-systems-b5ceea869d7d
+
+
+Try:
+How to Send Push Notification With Spring Boot using Websockets and STOMP
+https://amrutprabhu.medium.com/how-to-send-push-notification-with-spring-boot-using-websockets-and-stomp-f687807d1958
+
