@@ -21,3 +21,16 @@ Distributed Locking
 https://medium.com/@marios.shiatis/distributed-locking-b8f216bc79a2
 
 
+How to Enable HTTPS in Spring Boot Application
+https://medium.com/javarevisited/how-to-enable-https-in-spring-boot-application-78b77ba1d242
+
+
+
+
+
+
+Performance:
+How to build a scalable backend to query and search billions of records?
+https://medium.com/elucidata/how-to-build-a-scalable-backend-to-query-and-search-billions-of-records-16a532433fda
+
+
