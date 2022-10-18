@@ -52,6 +52,8 @@ AWS Kubernetes Roles Access:
 https://eng.grip.security/enabling-aws-iam-group-access-to-an-eks-cluster-using-rbac
 
 
+clean code: Java:
+https://medium.com/@gthanos/10-java-tips-for-cleaner-code-3224d3972416
 
 
 Spring references:
