@@ -26,6 +26,8 @@ https://medium.com/javarevisited/how-to-enable-https-in-spring-boot-application-
 
 
 
+Analyse Thread dump:
+https://medium.com/emlakjet/how-to-analyse-memory-dump-in-java-906e4d6ab75f
 
 
 
