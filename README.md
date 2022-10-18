@@ -56,6 +56,10 @@ clean code: Java:
 https://medium.com/@gthanos/10-java-tips-for-cleaner-code-3224d3972416
 
 
+Camunda AI:
+https://bpmn.io/blog/posts/2021-wasdenn-ai-modeling-assistant.html
+
+
 Spring references:
 https://odedia.org/production-considerations-for-spring-on-kubernetes
 
