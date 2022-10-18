@@ -39,6 +39,9 @@ https://medium.com/elucidata/how-to-build-a-scalable-backend-to-query-and-search
 Transaction in Distributed Systems:
 https://medium.com/nerd-for-tech/transactions-in-distributed-systems-b5ceea869d7d
 
+Optimistic Locking Spring:
+https://medium.com/@taha.topal.7/pessimistic-lock-with-spring-data-jpa-e42a7ba2510a
+
 
 Try:
 How to Send Push Notification With Spring Boot using Websockets and STOMP
