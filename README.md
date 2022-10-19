@@ -68,3 +68,8 @@ https://bpmn.io/blog/posts/2021-wasdenn-ai-modeling-assistant.html
 Spring references:
 https://odedia.org/production-considerations-for-spring-on-kubernetes
 
+
+Netflix Workflow:
+https://netflixtechblog.com/orchestrating-data-ml-workflows-at-scale-with-netflix-maestro-aaa2b41b800c
+
+
