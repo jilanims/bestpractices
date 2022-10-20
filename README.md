@@ -72,4 +72,6 @@ https://odedia.org/production-considerations-for-spring-on-kubernetes
 Netflix Workflow:
 https://netflixtechblog.com/orchestrating-data-ml-workflows-at-scale-with-netflix-maestro-aaa2b41b800c
 
+Spring cloud gateway custom api:
+https://medium.com/@fazazulfikapp/spring-cloud-gateway-custom-api-limiter-1a600de6bedf
 
