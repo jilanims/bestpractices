@@ -36,6 +36,11 @@ https://medium.com/javarevisited/how-to-enable-https-in-spring-boot-application-
 
 Camunda:
 -----------
+
+Camunda con 2022:
+https://page.camunda.com/camundacon-2022-on-demand-success
+
+
 camunda 7 to camunda8 migration:
 https://github.com/lwluc/camunda-ddd-and-clean-architecture
 
