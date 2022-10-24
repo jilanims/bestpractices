@@ -46,6 +46,13 @@ https://forum.camunda.io/t/hey-due-date-the-end-of-the-time-zones-hell-for-camun
 Camunda 8 awesome:
 https://github.com/camunda-community-hub/awesome-camunda-platform-8
 
+DMN:
+
+https://github.com/camunda-community-hub/camunda-dmn-tester
+
+https://consulting.camunda.com/dmn-simulator/
+
+
 
 
 
