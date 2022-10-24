@@ -39,6 +39,8 @@ Camunda:
 
 Camunda con 2022:
 https://page.camunda.com/camundacon-2022-on-demand-success
+https://github.com/urbanisierung/camundacon22
+
 
 
 camunda 7 to camunda8 migration:
