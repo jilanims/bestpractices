@@ -34,6 +34,13 @@ https://medium.com/javarevisited/how-to-enable-https-in-spring-boot-application-
 
 
 
+Camunda clean architecture:
+camunda 7 to camunda8 migration:
+https://github.com/lwluc/camunda-ddd-and-clean-architecture
+
+
+
+
 Analyse Thread dump:
 https://medium.com/emlakjet/how-to-analyse-memory-dump-in-java-906e4d6ab75f
 
