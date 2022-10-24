@@ -37,6 +37,13 @@ https://medium.com/javarevisited/how-to-enable-https-in-spring-boot-application-
 Camunda clean architecture:
 camunda 7 to camunda8 migration:
 https://github.com/lwluc/camunda-ddd-and-clean-architecture
+camunda 8 - due date:
+https://forum.camunda.io/t/hey-due-date-the-end-of-the-time-zones-hell-for-camunda-due-date-calculations/37133
+
+Camunda 8 awesome:
+https://github.com/camunda-community-hub/awesome-camunda-platform-8
+
+
 
 
 
