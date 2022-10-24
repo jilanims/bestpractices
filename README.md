@@ -11,6 +11,14 @@ https://towardsdev.com/using-multiple-databases-in-spring-boot-web-application-e
 Optimistic Locking by using @Version annotation
 https://medium.com/@taha.topal.7/optimistic-locking-by-using-version-annotation-2d45239fb065
 
+Spring boot:
+-----------
+Custom annotation:
+https://abhiandy.medium.com/spring-boot-create-custom-annotation-to-validate-request-parameter-dcf483539d90
+
+Ehcache configuration with sprin gboot
+https://programmingsharing.com/ehcache-configuration-in-spring-boot-162d754bcaf6
+
 
 Java:
 Stop checking for nulls in Java
@@ -74,4 +82,10 @@ https://netflixtechblog.com/orchestrating-data-ml-workflows-at-scale-with-netfli
 
 Spring cloud gateway custom api:
 https://medium.com/@fazazulfikapp/spring-cloud-gateway-custom-api-limiter-1a600de6bedf
+
+
+Patterns:
+Outbox-pattern
+https://medium.com/@egorponomarev/outbox-pattern-in-spring-boot-8e8cf116f044
+
 
