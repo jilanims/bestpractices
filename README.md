@@ -42,6 +42,9 @@ https://page.camunda.com/camundacon-2022-on-demand-success
 https://github.com/urbanisierung/camundacon22
 
 
+camunda 8 tasklist:
+https://camunda.com/blog/2022/05/getting-started-with-camunda-platform-8s-graphql-api/
+
 
 camunda 7 to camunda8 migration:
 https://github.com/lwluc/camunda-ddd-and-clean-architecture
