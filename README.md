@@ -33,6 +33,11 @@ How to Enable HTTPS in Spring Boot Application
 https://medium.com/javarevisited/how-to-enable-https-in-spring-boot-application-78b77ba1d242
 
 
+Kafka:
+------
+https://medium.com/lydtech-consulting/kafka-consumer-non-blocking-retry-spring-retry-topics-4ca09675e8b5
+
+
 
 Camunda:
 -----------
