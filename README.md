@@ -14,6 +14,12 @@ https://medium.com/@taha.topal.7/optimistic-locking-by-using-version-annotation-
 
 Spring boot:
 -----------
+
+Using OpenAI ChatGPT APIs in Spring Boot
+https://www.baeldung.com/keycloak-custom-protocol-mapper?__s=nshgkvs7x156iyk833ew
+
+
+
 Custom annotation:
 https://abhiandy.medium.com/spring-boot-create-custom-annotation-to-validate-request-parameter-dcf483539d90
 
