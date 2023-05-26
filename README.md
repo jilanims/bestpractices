@@ -45,6 +45,9 @@ https://www.baeldung.com/spring-flexypool-guide?__s=nshgkvs7x156iyk833ew
 Step-by-Step Guide to Using Elasticsearch in a Spring Boot Application
 https://medium.com/@abhishekranjandev/step-by-step-guide-to-using-elasticsearch-in-a-spring-boot-application-477ba7773dea
 
+Memory Leaks:
+https://medium.com/@abhishekranjandev/becoming-a-memory-leak-detective-unraveling-and-fixing-memory-leaks-in-your-spring-boot-859af9295654
+
 
 Kafka:
 ------
