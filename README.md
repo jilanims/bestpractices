@@ -42,6 +42,10 @@ https://medium.com/javarevisited/how-to-enable-https-in-spring-boot-application-
 Spring FlexyPool
 https://www.baeldung.com/spring-flexypool-guide?__s=nshgkvs7x156iyk833ew
 
+SpringBoot — API Versioning — Fast&Easy
+https://medium.com/@DevChris01/springboot-api-versioning-fast-easy-c3ef2c87452f
+
+
 Step-by-Step Guide to Using Elasticsearch in a Spring Boot Application
 https://medium.com/@abhishekranjandev/step-by-step-guide-to-using-elasticsearch-in-a-spring-boot-application-477ba7773dea
 
