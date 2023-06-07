@@ -18,6 +18,8 @@ Spring boot:
 Using OpenAI ChatGPT APIs in Spring Boot
 https://www.baeldung.com/keycloak-custom-protocol-mapper?__s=nshgkvs7x156iyk833ew
 
+Mastering Distributed Tracing with Spring Boot and Zipkin: A Comprehensive Guide for Microservices Monitoring and Debugging:
+https://medium.com/@jadhavsid1101/mastering-distributed-tracing-with-spring-boot-and-zipkin-a-comprehensive-guide-for-microservices-4cf7cebbed27
 
 
 Custom annotation:
