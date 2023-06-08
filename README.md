@@ -97,8 +97,8 @@ https://github.com/camunda-community-hub/camunda-dmn-tester
 https://consulting.camunda.com/dmn-simulator/
 
 
-
-
+https://medium.com/@burakkocakeu/in-spring-data-jpa-onetomany-what-are-these-fields-mappedby-fetch-cascade-and-orphanremoval-2655f4027c4f
+In Spring Data JPA OneToMany What are These Fields (mappedBy, fetch, cascade and orphanRemoval)
 
 
 
