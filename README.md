@@ -21,6 +21,9 @@ https://www.baeldung.com/keycloak-custom-protocol-mapper?__s=nshgkvs7x156iyk833e
 Mastering Distributed Tracing with Spring Boot and Zipkin: A Comprehensive Guide for Microservices Monitoring and Debugging:
 https://medium.com/@jadhavsid1101/mastering-distributed-tracing-with-spring-boot-and-zipkin-a-comprehensive-guide-for-microservices-4cf7cebbed27
 
+How to Schedule Jobs With Quartz in Spring Boot
+https://hackernoon.com/how-to-schedule-jobs-with-quartz-in-spring-boot
+
 
 Custom annotation:
 https://abhiandy.medium.com/spring-boot-create-custom-annotation-to-validate-request-parameter-dcf483539d90
