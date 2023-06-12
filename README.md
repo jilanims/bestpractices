@@ -35,6 +35,9 @@ https://abhiandy.medium.com/spring-boot-create-custom-annotation-to-validate-req
 Ehcache configuration with sprin gboot
 https://programmingsharing.com/ehcache-configuration-in-spring-boot-162d754bcaf6
 
+Implementing gRPC in a Spring Boot Application
+https://medium.com/@abhishekranjandev/implementing-grpc-in-a-spring-boot-application-f9b4fabcf6c5
+
 
 Java:
 Stop checking for nulls in Java
