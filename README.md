@@ -28,6 +28,9 @@ https://hackernoon.com/how-to-schedule-jobs-with-quartz-in-spring-boot
 Spring Security — The Security Filter Chain
 https://kasunprageethdissanayake.medium.com/spring-security-the-security-filter-chain-2e399a1cb8e3
 
+Using Elasticsearch with Spring Boot
+https://reflectoring.io/spring-boot-elasticsearch/
+
 
 Custom annotation:
 https://abhiandy.medium.com/spring-boot-create-custom-annotation-to-validate-request-parameter-dcf483539d90
