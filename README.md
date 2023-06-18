@@ -99,6 +99,9 @@ https://medium.com/@thomas-a-mathew/spring-data-jpa-dynamic-filtering-using-spec
 Building high scalable microservices with CQRS and Event Sourcing Using Spring, Kafka and Cassandra
 https://medium.com/@jorgegfx/building-high-scalable-microservices-with-cqrs-and-event-sourcing-using-spring-kafka-and-cassandra-e3dbe1be8dff
 
+Why gRPC is the future of software architecture
+https://www.linkedin.com/pulse/why-grpc-future-software-architecture-mohit-malhotra/
+
 
 
 
