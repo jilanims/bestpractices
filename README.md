@@ -71,6 +71,35 @@ Spring Knowledge;
 You don’t know @Transactional annotation, Do you?
 https://nameishari.medium.com/you-dont-know-transactional-annotation-do-you-5210c84ac41f 
 
+What is the significance of enum in Java?
+https://medium.com/@tararamgoyal4_92353/what-is-the-significance-of-enum-in-java-68dd044c299a
+
+
+Database Auditing in Spring boot with spring security context and spring data JPA
+https://mayankposts.medium.com/database-auditing-in-spring-boot-with-spring-security-context-and-spring-data-jpa-9215b43744bb
+
+Spring Boot Java framework: cheat sheet of maven pom.xml
+https://medium.com/@databackendtech/spring-boot-java-framework-cheat-sheet-of-maven-pom-xml-cb8ef2f0700d
+
+
+gRPC implementation in Springboot and microservices
+https://medium.com/@ankithahjpgowda/grpc-implementation-in-springboot-and-microservices-366dc7a66c5a
+
+
+Caching Strategies for High-Performance Spring Boot Applications
+https://medium.com/@snowvil84/caching-strategies-for-high-performance-spring-boot-applications-9e677561c1f6
+
+
+Reducing Code Duplication in JPA: How MappedSuperclass and NoRepositoryBean Can Help
+https://stackoverflow.com/questions/70260215/using-mappedsuperclass-in-spring-repository-query
+
+Spring Data JPA — Dynamic Filtering and Searching with Variable Parameters
+https://medium.com/@thomas-a-mathew/spring-data-jpa-dynamic-filtering-using-specifications-f7f12ad27063
+
+Building high scalable microservices with CQRS and Event Sourcing Using Spring, Kafka and Cassandra
+https://medium.com/@jorgegfx/building-high-scalable-microservices-with-cqrs-and-event-sourcing-using-spring-kafka-and-cassandra-e3dbe1be8dff
+
+
 
 
 Spring queries Problems:
