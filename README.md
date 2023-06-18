@@ -67,6 +67,21 @@ https://medium.com/@abhishekranjandev/step-by-step-guide-to-using-elasticsearch-
 Memory Leaks:
 https://medium.com/@abhishekranjandev/becoming-a-memory-leak-detective-unraveling-and-fixing-memory-leaks-in-your-spring-boot-859af9295654
 
+Spring Knowledge;
+You don’t know @Transactional annotation, Do you?
+https://nameishari.medium.com/you-dont-know-transactional-annotation-do-you-5210c84ac41f 
+
+
+
+Spring queries Problems:
+Mastering Java Spring Boot: Tackling the N+1 Query Problem in Your Applications
+https://muradiodev.medium.com/mastering-java-spring-boot-tackling-the-n-1-query-problem-in-your-applications-96ef55a04e2e
+
+
+Jasper Report:
+Building a Department API with Spring Boot 3
+https://medium.com/@pet.moustopoulos/building-a-department-api-with-spring-boot-3-dc4d71167ca6
+
 
 Kafka:
 ------
