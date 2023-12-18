@@ -123,6 +123,11 @@ https://medium.com/lydtech-consulting/kafka-consumer-non-blocking-retry-spring-r
 
 Camunda:
 -----------
+Camunda 8 Rest connector:
+https://www.youtube.com/watch?v=RfNp3iOWEhQ
+https://github.com/camunda/camunda-modeler/blob/master/resources/element-templates/cloud-samples.json
+https://docs.camunda.io/docs/components/connectors/custom-built-connectors/connector-templates/#inbound-start-event-connector-templates
+
 
 Camunda con 2022:
 https://page.camunda.com/camundacon-2022-on-demand-success
