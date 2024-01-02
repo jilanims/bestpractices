@@ -7,4 +7,7 @@ https://bootcamptoprod.com/measure-api-response-time-spring-boot/
 
 https://sahilrajput.hashnode.dev/java-spring-boot-interceptor
 
+https://medium.com/javarevisited/using-interceptor-in-a-spring-boot-api-9d7a0781dd19
 
+
+https://www.baeldung.com/spring-performance-logging
