@@ -12,6 +12,18 @@ https://towardsdev.com/using-multiple-databases-in-spring-boot-web-application-e
 Optimistic Locking by using @Version annotation
 https://medium.com/@taha.topal.7/optimistic-locking-by-using-version-annotation-2d45239fb065
 
+
+
+**Java 17 vs 21 with example:**
+https://rathod-ajay.medium.com/a-comprehensive-journey-from-java-8-to-java-21-with-code-examples-of-essential-api-enhancements-6817d2ab3ba8
+
+Advanced OOP in Python
+https://medium.com/@aserdargun/advanced-oop-in-python-a5f6130da291
+
+Apache Kafka + Vector Database + LLM = Real-Time GenAI
+https://kai-waehner.medium.com/apache-kafka-vector-database-llm-real-time-genai-4b5b6e687d85
+
+
 Spring boot:
 -----------
 
