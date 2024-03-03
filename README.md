@@ -6,6 +6,16 @@ https://phsophea101.medium.com/standard-api-request-and-response-with-spring-boo
 **Spring Boot, Kafka, and WebSocket: A Practical Approach to Real-Time Messaging**
 https://umar-fajar14.medium.com/spring-boot-kafka-and-websocket-a-practical-approach-to-real-time-messaging-6169f5995fe1
 
+Pessimistic Lock in Spring Boot
+https://blog.devgenius.io/pessimistic-lock-in-spring-boot-a3c44055be0f
+
+
+Building Scalable Microservices with gRPC, Spring Boot, and Maven
+https://towardsdev.com/building-scalable-microservices-with-grpc-spring-boot-and-maven-fe49c377e450
+
+with Spring-Boot 3 and Apache Camel (Camel WhatsApp)
+https://blog.stackademic.com/multi-channel-notifications-service-with-spring-boot-3-apache-camel-camel-whatsapp-85ab7942666f
+
 
 Spring boot REST API Request and Response Interceptor logging
 https://medium.com/@ankithahjpgowda/log-request-and-responses-of-rest-apis-in-springboot-c13f9bc7903f
