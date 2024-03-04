@@ -1,5 +1,9 @@
 "# bestpractices" 
 
+
+**ChatGPT Integration with Spring Boot Application**
+https://levelup.gitconnected.com/chatgtp-integration-with-spring-boot-application-280637e69e73
+
 **Best Practices for API Request and Response Handlings in Spring Boot Development**
 https://phsophea101.medium.com/standard-api-request-and-response-with-spring-boot-f3a7cf7f4422
 
