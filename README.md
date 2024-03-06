@@ -1,5 +1,8 @@
 "# bestpractices" 
 
+**Distributed Lock & Schedule Lock with Redis and Spring Boot (without ShedLock)**
+https://blog.devgenius.io/distributed-lock-schedule-lock-with-redis-and-spring-boot-without-shedlock-c45a9f608f3a
+
 
 **ChatGPT Integration with Spring Boot Application**
 https://levelup.gitconnected.com/chatgtp-integration-with-spring-boot-application-280637e69e73
