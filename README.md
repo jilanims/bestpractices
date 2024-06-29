@@ -1,4 +1,6 @@
 "# bestpractices" 
+**Mystery of Database Inconsistencies Caused by Hibernate Caching in Spring Boot**
+https://medium.com/@admin_64036/behind-the-scenes-solving-the-mystery-of-database-inconsistencies-caused-by-hibernate-caching-in-5ef17dda1710
 
 **Distributed Lock & Schedule Lock with Redis and Spring Boot (without ShedLock)**
 https://blog.devgenius.io/distributed-lock-schedule-lock-with-redis-and-spring-boot-without-shedlock-c45a9f608f3a
