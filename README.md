@@ -1,4 +1,9 @@
 "# bestpractices" 
+
+**How to create DTOs with records and MapStruct in Spring Boot**
+https://medium.com/@cat.edelveis/how-to-create-dtos-with-records-and-mapstruct-in-spring-boot-ed9931ba5191
+
+
 **Mystery of Database Inconsistencies Caused by Hibernate Caching in Spring Boot**
 https://medium.com/@admin_64036/behind-the-scenes-solving-the-mystery-of-database-inconsistencies-caused-by-hibernate-caching-in-5ef17dda1710
 
