@@ -1,5 +1,9 @@
 "# bestpractices" 
 
+
+**Maximizing HikariCP Performance in Spring Boot Applications**
+https://medium.com/@mukitulislamratul/maximizing-hikaricp-performance-in-spring-boot-applications-f7ee8474410a
+
 **How to create DTOs with records and MapStruct in Spring Boot**
 https://medium.com/@cat.edelveis/how-to-create-dtos-with-records-and-mapstruct-in-spring-boot-ed9931ba5191
 
