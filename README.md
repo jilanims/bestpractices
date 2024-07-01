@@ -1,5 +1,10 @@
 "# bestpractices" 
 
+**Convert a Map to a Spring MultiValueMap**
+https://www.baeldung.com/java-convert-map-spring-multivaluemap?__s=nshgkvs7x156iyk833ew
+
+**Implement Bulk and Batch API in Spring**
+https://www.baeldung.com/spring-bulk-batch-api-implementation?__s=nshgkvs7x156iyk833ew
 
 **Maximizing HikariCP Performance in Spring Boot Applications**
 https://medium.com/@mukitulislamratul/maximizing-hikaricp-performance-in-spring-boot-applications-f7ee8474410a
