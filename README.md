@@ -1,5 +1,8 @@
 "# bestpractices" 
 
+**Behind the Scenes: Solving the Mystery of Database Inconsistencies Caused by Hibernate Caching in Spring Boot**
+https://medium.com/@admin_64036/behind-the-scenes-solving-the-mystery-of-database-inconsistencies-caused-by-hibernate-caching-in-5ef17dda1710
+
 **Convert a Map to a Spring MultiValueMap**
 https://www.baeldung.com/java-convert-map-spring-multivaluemap?__s=nshgkvs7x156iyk833ew
 
