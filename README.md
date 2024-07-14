@@ -1,5 +1,9 @@
 "# bestpractices" 
 
+--real time --
+**How Twitter processes 4 billion events in real-time daily**
+https://blog.det.life/how-twitter-processes-4-billion-events-in-real-time-daily-942db8f7d7b5
+
 **Behind the Scenes: Solving the Mystery of Database Inconsistencies Caused by Hibernate Caching in Spring Boot**
 https://medium.com/@admin_64036/behind-the-scenes-solving-the-mystery-of-database-inconsistencies-caused-by-hibernate-caching-in-5ef17dda1710
 
