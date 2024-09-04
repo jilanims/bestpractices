@@ -10,3 +10,7 @@ https://www.baeldung.com/spring-cloud-gateway-integrate-openapi?__s=nshgkvs7x156
 
 **A Guide to Fallback Beans in Spring Framework**
 https://www.baeldung.com/spring-fallback-beans?__s=nshgkvs7x156iyk833ew
+
+
+**Sending Email Notifications with RabbitMQ Using Java (Spring Boot)**
+https://olaolulode.medium.com/sending-email-notifications-with-rabbitmq-using-java-spring-boot-fc50f6bdb878
