@@ -39,6 +39,12 @@ https://umar-fajar14.medium.com/spring-boot-kafka-and-websocket-a-practical-appr
 Pessimistic Lock in Spring Boot
 https://blog.devgenius.io/pessimistic-lock-in-spring-boot-a3c44055be0f
 
+**Building Safer, Faster RAG Systems: A Deep Dive into GRAS and BootstrapRAG**
+https://medium.com/aimonks/building-safer-faster-rag-systems-a-deep-dive-into-gras-and-bootstraprag-60aad5cbc767
+
+
+**Spring Boot Retry/Recover Functionality**
+https://medium.com/codex/spring-boot-retry-recover-functionality-14c958a5efcc
 
 Building Scalable Microservices with gRPC, Spring Boot, and Maven
 https://towardsdev.com/building-scalable-microservices-with-grpc-spring-boot-and-maven-fe49c377e450
